@@ -243,6 +243,7 @@ interface Array<T> { length: number; [n: number]: T; }
     "cacheResolutions": {
       "resolutions": [
         {
+          "id": 1,
           "resolvedModule": {
             "resolvedFileName": "./node_modules/pkg0/import.d.ts",
             "isExternalLibraryImport": true,
@@ -257,6 +258,7 @@ interface Array<T> { length: number; [n: number]: T; }
           ]
         },
         {
+          "id": 2,
           "resolvedTypeReferenceDirective": {
             "resolvedFileName": "./node_modules/pkg2/import.d.ts",
             "packageId": {
@@ -271,6 +273,7 @@ interface Array<T> { length: number; [n: number]: T; }
           ]
         },
         {
+          "id": 3,
           "resolvedTypeReferenceDirective": {
             "primary": true,
             "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -287,6 +290,7 @@ interface Array<T> { length: number; [n: number]: T; }
         [
           "pkg0",
           {
+            "id": 1,
             "resolvedModule": {
               "resolvedFileName": "./node_modules/pkg0/import.d.ts",
               "isExternalLibraryImport": true,
@@ -305,6 +309,7 @@ interface Array<T> { length: number; [n: number]: T; }
         [
           "pkg2",
           {
+            "id": 2,
             "resolvedTypeReferenceDirective": {
               "resolvedFileName": "./node_modules/pkg2/import.d.ts",
               "packageId": {
@@ -323,6 +328,7 @@ interface Array<T> { length: number; [n: number]: T; }
         [
           "pkg4",
           {
+            "id": 3,
             "resolvedTypeReferenceDirective": {
               "primary": true,
               "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -338,6 +344,7 @@ interface Array<T> { length: number; [n: number]: T; }
             [
               "pkg0",
               {
+                "id": 1,
                 "resolvedModule": {
                   "resolvedFileName": "./node_modules/pkg0/import.d.ts",
                   "isExternalLibraryImport": true,
@@ -363,6 +370,7 @@ interface Array<T> { length: number; [n: number]: T; }
             [
               "pkg2",
               {
+                "id": 2,
                 "resolvedTypeReferenceDirective": {
                   "resolvedFileName": "./node_modules/pkg2/import.d.ts",
                   "packageId": {
@@ -381,6 +389,7 @@ interface Array<T> { length: number; [n: number]: T; }
             [
               "pkg4",
               {
+                "id": 3,
                 "resolvedTypeReferenceDirective": {
                   "primary": true,
                   "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -800,6 +809,7 @@ exitCode:: ExitStatus.undefined
     "cacheResolutions": {
       "resolutions": [
         {
+          "id": 1,
           "resolvedModule": {
             "resolvedFileName": "./node_modules/pkg0/import.d.ts",
             "isExternalLibraryImport": true,
@@ -814,6 +824,7 @@ exitCode:: ExitStatus.undefined
           ]
         },
         {
+          "id": 2,
           "resolvedTypeReferenceDirective": {
             "resolvedFileName": "./node_modules/pkg2/import.d.ts",
             "packageId": {
@@ -828,6 +839,7 @@ exitCode:: ExitStatus.undefined
           ]
         },
         {
+          "id": 3,
           "resolvedTypeReferenceDirective": {
             "primary": true,
             "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -844,6 +856,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg0",
           {
+            "id": 1,
             "resolvedModule": {
               "resolvedFileName": "./node_modules/pkg0/import.d.ts",
               "isExternalLibraryImport": true,
@@ -862,6 +875,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg2",
           {
+            "id": 2,
             "resolvedTypeReferenceDirective": {
               "resolvedFileName": "./node_modules/pkg2/import.d.ts",
               "packageId": {
@@ -880,6 +894,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg4",
           {
+            "id": 3,
             "resolvedTypeReferenceDirective": {
               "primary": true,
               "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -895,6 +910,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg0",
               {
+                "id": 1,
                 "resolvedModule": {
                   "resolvedFileName": "./node_modules/pkg0/import.d.ts",
                   "isExternalLibraryImport": true,
@@ -920,6 +936,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg2",
               {
+                "id": 2,
                 "resolvedTypeReferenceDirective": {
                   "resolvedFileName": "./node_modules/pkg2/import.d.ts",
                   "packageId": {
@@ -938,6 +955,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg4",
               {
+                "id": 3,
                 "resolvedTypeReferenceDirective": {
                   "primary": true,
                   "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -1299,6 +1317,7 @@ exitCode:: ExitStatus.undefined
     "cacheResolutions": {
       "resolutions": [
         {
+          "id": 1,
           "resolvedModule": {
             "resolvedFileName": "./node_modules/pkg0/import.d.ts",
             "isExternalLibraryImport": true,
@@ -1313,6 +1332,7 @@ exitCode:: ExitStatus.undefined
           ]
         },
         {
+          "id": 2,
           "resolvedTypeReferenceDirective": {
             "resolvedFileName": "./node_modules/pkg2/import.d.ts",
             "packageId": {
@@ -1327,6 +1347,7 @@ exitCode:: ExitStatus.undefined
           ]
         },
         {
+          "id": 3,
           "resolvedTypeReferenceDirective": {
             "primary": true,
             "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -1343,6 +1364,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg0",
           {
+            "id": 1,
             "resolvedModule": {
               "resolvedFileName": "./node_modules/pkg0/import.d.ts",
               "isExternalLibraryImport": true,
@@ -1361,6 +1383,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg2",
           {
+            "id": 2,
             "resolvedTypeReferenceDirective": {
               "resolvedFileName": "./node_modules/pkg2/import.d.ts",
               "packageId": {
@@ -1379,6 +1402,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg4",
           {
+            "id": 3,
             "resolvedTypeReferenceDirective": {
               "primary": true,
               "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -1394,6 +1418,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg0",
               {
+                "id": 1,
                 "resolvedModule": {
                   "resolvedFileName": "./node_modules/pkg0/import.d.ts",
                   "isExternalLibraryImport": true,
@@ -1419,6 +1444,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg2",
               {
+                "id": 2,
                 "resolvedTypeReferenceDirective": {
                   "resolvedFileName": "./node_modules/pkg2/import.d.ts",
                   "packageId": {
@@ -1437,6 +1463,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg4",
               {
+                "id": 3,
                 "resolvedTypeReferenceDirective": {
                   "primary": true,
                   "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -1758,6 +1785,7 @@ exitCode:: ExitStatus.undefined
     "cacheResolutions": {
       "resolutions": [
         {
+          "id": 1,
           "resolvedModule": {
             "resolvedFileName": "./node_modules/pkg0/import.d.ts",
             "isExternalLibraryImport": true,
@@ -1772,6 +1800,7 @@ exitCode:: ExitStatus.undefined
           ]
         },
         {
+          "id": 2,
           "resolvedTypeReferenceDirective": {
             "resolvedFileName": "./node_modules/pkg2/import.d.ts",
             "packageId": {
@@ -1786,6 +1815,7 @@ exitCode:: ExitStatus.undefined
           ]
         },
         {
+          "id": 3,
           "resolvedTypeReferenceDirective": {
             "primary": true,
             "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -1802,6 +1832,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg0",
           {
+            "id": 1,
             "resolvedModule": {
               "resolvedFileName": "./node_modules/pkg0/import.d.ts",
               "isExternalLibraryImport": true,
@@ -1820,6 +1851,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg2",
           {
+            "id": 2,
             "resolvedTypeReferenceDirective": {
               "resolvedFileName": "./node_modules/pkg2/import.d.ts",
               "packageId": {
@@ -1838,6 +1870,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg4",
           {
+            "id": 3,
             "resolvedTypeReferenceDirective": {
               "primary": true,
               "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -1853,6 +1886,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg0",
               {
+                "id": 1,
                 "resolvedModule": {
                   "resolvedFileName": "./node_modules/pkg0/import.d.ts",
                   "isExternalLibraryImport": true,
@@ -1878,6 +1912,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg2",
               {
+                "id": 2,
                 "resolvedTypeReferenceDirective": {
                   "resolvedFileName": "./node_modules/pkg2/import.d.ts",
                   "packageId": {
@@ -1896,6 +1931,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg4",
               {
+                "id": 3,
                 "resolvedTypeReferenceDirective": {
                   "primary": true,
                   "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -2254,6 +2290,7 @@ exitCode:: ExitStatus.undefined
     "cacheResolutions": {
       "resolutions": [
         {
+          "id": 1,
           "resolvedModule": {
             "resolvedFileName": "./node_modules/pkg0/import.d.ts",
             "isExternalLibraryImport": true,
@@ -2268,6 +2305,7 @@ exitCode:: ExitStatus.undefined
           ]
         },
         {
+          "id": 2,
           "resolvedTypeReferenceDirective": {
             "resolvedFileName": "./node_modules/pkg2/import.d.ts",
             "packageId": {
@@ -2282,6 +2320,7 @@ exitCode:: ExitStatus.undefined
           ]
         },
         {
+          "id": 3,
           "resolvedTypeReferenceDirective": {
             "primary": true,
             "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -2298,6 +2337,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg0",
           {
+            "id": 1,
             "resolvedModule": {
               "resolvedFileName": "./node_modules/pkg0/import.d.ts",
               "isExternalLibraryImport": true,
@@ -2316,6 +2356,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg2",
           {
+            "id": 2,
             "resolvedTypeReferenceDirective": {
               "resolvedFileName": "./node_modules/pkg2/import.d.ts",
               "packageId": {
@@ -2334,6 +2375,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg4",
           {
+            "id": 3,
             "resolvedTypeReferenceDirective": {
               "primary": true,
               "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -2349,6 +2391,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg0",
               {
+                "id": 1,
                 "resolvedModule": {
                   "resolvedFileName": "./node_modules/pkg0/import.d.ts",
                   "isExternalLibraryImport": true,
@@ -2374,6 +2417,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg2",
               {
+                "id": 2,
                 "resolvedTypeReferenceDirective": {
                   "resolvedFileName": "./node_modules/pkg2/import.d.ts",
                   "packageId": {
@@ -2392,6 +2436,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg4",
               {
+                "id": 3,
                 "resolvedTypeReferenceDirective": {
                   "primary": true,
                   "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -2598,6 +2643,7 @@ exitCode:: ExitStatus.undefined
     "cacheResolutions": {
       "resolutions": [
         {
+          "id": 1,
           "resolvedModule": {
             "resolvedFileName": "./node_modules/pkg0/import.d.ts",
             "isExternalLibraryImport": true,
@@ -2612,6 +2658,7 @@ exitCode:: ExitStatus.undefined
           ]
         },
         {
+          "id": 2,
           "resolvedTypeReferenceDirective": {
             "resolvedFileName": "./node_modules/pkg2/import.d.ts",
             "packageId": {
@@ -2626,6 +2673,7 @@ exitCode:: ExitStatus.undefined
           ]
         },
         {
+          "id": 3,
           "resolvedTypeReferenceDirective": {
             "primary": true,
             "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -2642,6 +2690,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg0",
           {
+            "id": 1,
             "resolvedModule": {
               "resolvedFileName": "./node_modules/pkg0/import.d.ts",
               "isExternalLibraryImport": true,
@@ -2660,6 +2709,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg2",
           {
+            "id": 2,
             "resolvedTypeReferenceDirective": {
               "resolvedFileName": "./node_modules/pkg2/import.d.ts",
               "packageId": {
@@ -2678,6 +2728,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg4",
           {
+            "id": 3,
             "resolvedTypeReferenceDirective": {
               "primary": true,
               "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -2693,6 +2744,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg0",
               {
+                "id": 1,
                 "resolvedModule": {
                   "resolvedFileName": "./node_modules/pkg0/import.d.ts",
                   "isExternalLibraryImport": true,
@@ -2718,6 +2770,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg2",
               {
+                "id": 2,
                 "resolvedTypeReferenceDirective": {
                   "resolvedFileName": "./node_modules/pkg2/import.d.ts",
                   "packageId": {
@@ -2736,6 +2789,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg4",
               {
+                "id": 3,
                 "resolvedTypeReferenceDirective": {
                   "primary": true,
                   "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -2963,6 +3017,7 @@ exitCode:: ExitStatus.undefined
     "cacheResolutions": {
       "resolutions": [
         {
+          "id": 1,
           "resolvedTypeReferenceDirective": {
             "resolvedFileName": "./node_modules/pkg2/import.d.ts",
             "packageId": {
@@ -2977,6 +3032,7 @@ exitCode:: ExitStatus.undefined
           ]
         },
         {
+          "id": 2,
           "resolvedTypeReferenceDirective": {
             "primary": true,
             "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -2992,6 +3048,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg2",
           {
+            "id": 1,
             "resolvedTypeReferenceDirective": {
               "resolvedFileName": "./node_modules/pkg2/import.d.ts",
               "packageId": {
@@ -3010,6 +3067,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg4",
           {
+            "id": 2,
             "resolvedTypeReferenceDirective": {
               "primary": true,
               "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -3025,6 +3083,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg2",
               {
+                "id": 1,
                 "resolvedTypeReferenceDirective": {
                   "resolvedFileName": "./node_modules/pkg2/import.d.ts",
                   "packageId": {
@@ -3043,6 +3102,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg4",
               {
+                "id": 2,
                 "resolvedTypeReferenceDirective": {
                   "primary": true,
                   "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -3243,6 +3303,7 @@ exitCode:: ExitStatus.undefined
     "cacheResolutions": {
       "resolutions": [
         {
+          "id": 1,
           "resolvedTypeReferenceDirective": {
             "primary": true,
             "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -3257,6 +3318,7 @@ exitCode:: ExitStatus.undefined
         [
           "pkg4",
           {
+            "id": 1,
             "resolvedTypeReferenceDirective": {
               "primary": true,
               "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
@@ -3272,6 +3334,7 @@ exitCode:: ExitStatus.undefined
             [
               "pkg4",
               {
+                "id": 1,
                 "resolvedTypeReferenceDirective": {
                   "primary": true,
                   "resolvedFileName": "./node_modules/@types/pkg4/index.d.ts",
